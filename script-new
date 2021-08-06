@@ -1,0 +1,5 @@
+if game.PlaceId == 2984324806 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nagliuxas/HitHUB/main/source",true))()
+elseif game.PlaceId == 662417684 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nagliuxas/HitNew/main/source",true))()
+end
